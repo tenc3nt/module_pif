@@ -11,38 +11,38 @@
                 <field
                     name="MANUFACTURER"
                     type="string"
-                    value="Archos" />
+                    value="Xiaomi" />
                 <field
                     name="BRAND"
                     type="string"
-                    value="archos" />
+                    value="Xiaomi" />
                 <field
                     name="DEVICE"
                     type="string"
-                    value="ac70dti" />
+                    value="jason" />
                 <field
                     name="PRODUCT"
                     type="string"
-                    value="MTKAC70DTI" />
+                    value="jason" />
                 <field
                     name="MODEL"
                     type="string"
-                    value="Archos 70d Titanium" />
+                    value="Mi Note 3" />
                 <field
                     name="FINGERPRINT"
                     type="string"
-                    value="archos/MTKAC70DTI/ac70dti:7.0/NRD90M/20170602.033254:user/release-keys" />
+                    value="Xiaomi/jason/jason:8.1.0/OPM1.171019.019/V10.2.2.0.OCHMIXM:user/release-keys" />
             </class>
             <class
                 name="android.os.Build$VERSION">
                 <field
                     name="SECURITY_PATCH"
                     type="string"
-                    value="2017-05-01" />
+                    value="2018-12-01" />
                 <field
                     name="DEVICE_INITIAL_SDK_INT"
                     type="int"
-                    value="24" />
+                    value="" />
             </class>
         </filter>
     </trigger>
